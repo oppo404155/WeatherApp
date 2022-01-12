@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/ic_cloudy.xml" value="0.137" />
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/ic_day_cloudy.xml" value="0.137" />
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/ic_day_fog.xml" value="0.137" />
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/ic_night_alt_partly_cloudy.xml" value="0.137" />
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/ic_night_alt_showers.xml" value="0.137" />
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/ic_night_alt_thunderstorm.xml" value="0.137" />
+        <entry key="..\:/Users/pp/AndroidStudioProjects/TODO_App/app/src/main/res/drawable-v24/splash_screen_background.xml" value="0.138" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <xml-schema-version>XMLSchema_1_1</xml-schema-version>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TODO_App</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="mostly_cloudy">Mostly cloudy</string>
+    <string name="scattered_clouds">Scattered clouds</string>
+    <string name="foggy">Foggy</string>
+    <string name="snowy">Snowy</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="rainy">Rainy</string>
+    <string name="heavy_rain">Heavy rain</string>
+    <string name="few_clouds">Few clouds</string>
+    <string name="moon">Moon</string>
+    <string name="moutain">Mountain</string>
+    <string name="sky">Sky</string>
+    <string name="sun">Sun</string>
+    <string name="refresh_layout">Refresh layout</string>
+    <string name="fake_data_message">All data used in Flux is fake.</string>
+    <string name="cloud">Cloud</string>
+    <string name="hourly_weather">Hourly weather</string>
+    <string name="forecast_24h">24-hour forecast</string>
+    <string name="weather_radar">Weather radar</string>
+    <string name="satellite_images">Satellite images</string>
+    <string name="temperature">Temperature</string>
+    <string name="expandable_header_toggle_message">Toggle expanded state</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="generic_error_message">An error occurred.</string>
+    <string name="this_week">This week</string>
+    <string name="forecast_7days">7-day forecast</string>
+    <string name="details">Details</string>
+    <string name="weather_now">Weather now</string>
+    <string name="rain">Rain</string>
+    <string name="wind">Wind</string>
+    <string name="cloud_cover">Cloud cover</string>
+</resources>
